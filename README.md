@@ -34,12 +34,12 @@
   <img src="https://img.shields.io/badge/discorddotjs-5865F2?style=flat-square&logo=discorddotjs&logoColor=white"/>
   <!--Selenium-->
   <img src="https://img.shields.io/badge/fastify-000000?style=flat-square&logo=fastify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/fastify-000000?style=flat-square&logo=fastify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/>
   <br/>
   
   ### Framework
-  <!--Flask-->
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/nextdotjs-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
   <!--Django-->
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   <!--React-->
@@ -49,17 +49,14 @@
   ### ETC
   <!--Amazon AWS-->
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-  <!--Slack-->
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-  <!--MySQL-->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
   <br/>
   <br/>
   
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sejun3232)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejun3232&layout=compact)
   
 </div>
 
