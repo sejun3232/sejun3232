@@ -17,12 +17,11 @@
   
   ## 🧱 Tech Stack
   ### Language
-  <img src="https://img.shields.io/badge/#000000?style=flat-square&logo=rust&logoColor=white"/>
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c++&logoColor=white"/>
+  <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=c++&logoColor=white"/>
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
   <!--HTML5-->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -32,9 +31,10 @@
   
   ### Library
   <!--PyTorch-->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/discorddotjs-5865F2?style=flat-square&logo=discorddotjs&logoColor=white"/>
   <!--Selenium-->
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/fastify-000000?style=flat-square&logo=fastify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/fastify-000000?style=flat-square&logo=fastify&logoColor=white"/>
   <br/>
   
   ### Framework
