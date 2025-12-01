@@ -9,9 +9,7 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  #### 대충 디스코드 봇개발과 이것저것 많이하는 고1 바이브코더<br/>
   <br/>
   <br/>
   
